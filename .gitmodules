@@ -1,4 +1,4 @@
 [submodule "lung-atlas-tutorial"]
 	path = lung-atlas-tutorial
-	url = ../lung-atlas-tutorial
+	url = ../nextgen-analysis-lung-atlas-tutorial
 	datalad-id = 8fd79edd-9ae0-465d-9fed-14dd6d64f342
