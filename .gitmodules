@@ -2,7 +2,3 @@
 	path = lung-atlas-tutorial
 	url = git@github.com:pranavmishra90/nextgen-analysis-lung-atlas-tutorial.git
 	datalad-id = 8fd79edd-9ae0-465d-9fed-14dd6d64f342
-[submodule "scvi-tools"]
-	path = scvi-tools
-	url = git@github.com:pranavmishra90/nextgen-analysis-scvi-tools.git
-	datalad-id = 7b01fe57-e0bd-47be-b951-f58389ed61c7
