@@ -4,5 +4,5 @@
 	datalad-id = 8fd79edd-9ae0-465d-9fed-14dd6d64f342
 [submodule "scvi-tools"]
 	path = scvi-tools
-	url = ./scvi-tools
+	url = ../nextgen-analysis-scvi-tools
 	datalad-id = 7b01fe57-e0bd-47be-b951-f58389ed61c7
