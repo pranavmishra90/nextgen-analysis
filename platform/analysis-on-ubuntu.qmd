@@ -4,18 +4,14 @@ subtitle: "Installing the packages you need and then some"
 date: last-modified
 date-format: full
 author:
-  - name: Pranav Mishra
+  - name: Pranav Kumar Mishra
     url: https://www.drpranavmishra.com
     orcid: 0000-0001-5219-6269 
     affiliation: Rush University
     affiliation-url: https://rushu.rush.edu 
-citation: true
-google-scholar: true
 code-fold: true
 execute: 
   enabled: false
-csl: ../../american-medical-association.csl
-bibliography: references.bib
 ---
 
 ## Overview
